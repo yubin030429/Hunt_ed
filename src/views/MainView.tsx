@@ -1,12 +1,9 @@
-import * as React from 'react';
+import * as React from "react";
 
 const MainView = (): JSX.Element => {
-    
-    return (
-        <div>
-            this is Main view
-        </div>
-    )
-}
+  const test = <div>asdf</div>;
+
+  return test;
+};
 
 export default MainView;
